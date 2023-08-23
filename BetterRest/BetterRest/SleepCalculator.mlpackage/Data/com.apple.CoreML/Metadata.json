@@ -1,0 +1,11 @@
+{
+  "MLModelVersionStringKey" : "1.0",
+  "MLModelDescriptionKey" : "A machine learning model that has been trained for regression.",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "10.16.0",
+    "com.apple.createml.app.version" : "1.0",
+    "com.apple.createml.app.tag" : "15703"
+  },
+  "MLModelAuthorKey" : "Josh Burke",
+  "MLModelLicenseKey" : "--"
+}
